@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@arvin65181889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arvin65181889" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arvin afzali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvin afzali" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arvin afzali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arvin afzali" height="30" width="40" /></a>
-<a href="https://fb.com/arvin afzali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arvin afzali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Arvin Afzali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arvin Afzali" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/Arvin Afzali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Arvin Afzali" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/arvin.afzali.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arvin.afzali.14" height="30" width="40" /></a>
 <a href="https://instagram.com/arvin.afz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arvin.afz" height="30" width="40" /></a>
 <a href="https://discord.gg/Arvin.afz#4108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arvin.afz#4108" height="30" width="40" /></a>
 </p>
