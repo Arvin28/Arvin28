@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on  Python Libraries
-🌱 I’m currently learning Python AI
-📫 How to reach me: arvin1231231230@gmail.com
+-🔭 I’m currently working on  Python Libraries
+
+-🌱 I’m currently learning Python AI
+
+-📫 How to reach me: arvin1231231230@gmail.com
 
 <!--
 **Arvin28/Arvin28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
